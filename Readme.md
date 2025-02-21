@@ -37,7 +37,7 @@ Here’s a quick look at the supported file extensions and their corresponding f
 - Run the script in the terminal or command prompt:
 
 ```bash
-  python file_organizer.py
+  python FileOrganizer.py
 ```
 
 ## Usage 🏃‍♀️
