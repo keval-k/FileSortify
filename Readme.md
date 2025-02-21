@@ -1,6 +1,6 @@
-# File Organizer 🚀📂
+# File Sortify🚀📂
 
-Welcome to the File Organizer! 🎉
+Welcome to the File Sortify! 🎉
 
 I was inspired by a paid software (Internet Download Manager) that automatically organizes files for you. But I thought, why pay when I can build my own? So, here’s my very own File Organizer that sorts your files automatically into neat folders based on file types! 😎
 
